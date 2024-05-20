@@ -50,7 +50,7 @@ body {
   button {
     width: 100%;
     padding: 10px;
-    background-color: #87cefa;
+    background-color: #ff00d4;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -58,7 +58,7 @@ body {
   }
   
   button:hover {
-    background-color: #6494ed;
+    background-color: #ff00d4;
     transition: 0.5ms;
   }
   
